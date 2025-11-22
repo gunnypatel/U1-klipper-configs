@@ -32,24 +32,19 @@ Stick your printer's ip in a browser
 
 ![access flluidd interface](assets/configs.png)
 
-### Access the `persistent` directory
-
-![access flluidd interface](assets/persistent_dir1.png)
-![access flluidd interface](assets/persistent_dir2.png)
-
-### Create the `custom` directory under `persistent`
+### Create the `custom` directory
 
 ![access flluidd interface](assets/create_custom_directory1.png)
 ![access flluidd interface](assets/create_custom_directory2.png)
 
-### Upload the `spoolman_multi_tool.cfg` file
+### Upload the `spoolman_multi_tool.cfg` file in the newly created `custom` directory
 
 ![access flluidd interface](assets/upload_multitoo_conf1.png)
 ![access flluidd interface](assets/upload_multitoo_conf2.png)
 
 ### Create variable persistence file
 
-While still in the `persistent/custom` directory, create a file called `variables.cfg`
+Create a file called `variables.cfg` int he config root
 ![access flluidd interface](assets/variables1.png)
 ![access flluidd interface](assets/variables2.png)
 ![access flluidd interface](assets/variables3.png)
@@ -60,6 +55,10 @@ Copy the inlcude line form [multi tool config file for spolman](additions_to_pri
 ![access flluidd interface](assets/include1.png)
 ![access flluidd interface](assets/include2.png)
 
+### Restart Klipper
+
+![access flluidd interface](assets/restart.png)
+
 ### Activate Spoolman Pannel
 
 From Fluidd's main page, open the `3 dots menu`, and select `Adjust dashboard layout`
@@ -69,8 +68,6 @@ From Fluidd's main page, open the `3 dots menu`, and select `Adjust dashboard la
 find the spoolman pannel and verify it is active
 ![access flluidd interface](assets/spoolman.png)
 !!! PAY ATTENTION !!!: I reorganized my fuidd's pannel as it please me, so your spoolman panel might not be in the same position as mine. Look for it.
-
-### Reboot your printer
 
 ## Done:
 
