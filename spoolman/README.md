@@ -51,8 +51,8 @@ Stick your printer's ip in a browser
 
 While still in the `persistent/custom` directory, create a file called `variables.cfg`
 ![access flluidd interface](assets/variables1.png)
-![access flluidd interface](assets/variables12.png)
-![access flluidd interface](assets/variables13.png)
+![access flluidd interface](assets/variables2.png)
+![access flluidd interface](assets/variables3.png)
 
 ### Inlcude the new file in your `printer.cfg`
 
