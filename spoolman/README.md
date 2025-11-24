@@ -1,5 +1,8 @@
 # Spoolman for Multi tools
 
+![Activate Advanced Mode](assets/biboard1.gif)
+![Activate Advanced Mode](assets/biboard2.gif)
+
 ## Prerequisites
 
 ### A working Spoolman instance
@@ -45,7 +48,7 @@ and append the spoolman connection to the end of the file
 server: http://<spoolman ip>:<port>
 ```
 
-![access flluidd interface](assets/moonraker2.png)
+![access flluidd interface](assets/moonraker2<<<>>>.png)
 
 ### Create the `custom` directory
 
